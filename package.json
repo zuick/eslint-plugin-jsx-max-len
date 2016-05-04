@@ -1,0 +1,14 @@
+{
+  "name": "eslint-plugin-jsx-max-len",
+  "version": "1.0.0",
+  "description": "ESLint rule: requires multi-line for jsx component if it's single-line version is too long",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Ruslan Khakimov",
+    "email": "izuick@gmail.com"
+  },
+  "license": "MIT"
+}
