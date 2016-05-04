@@ -33,7 +33,7 @@ Add to your config .eslintrc.js file
 
 # Usage
 
-For single-line components, which overflow maximum line length, "Consider multiline" message will be shown. For example:
+For single-line components, which overflow maximum line length, "Consider multi-line" message will be shown. For example:
 ```
 // consider multi-line for next component (maximum line length: 80)
 <ExampleComponent attributeOne="one" attributeTwo="two" attributeThree="three" attributeFour="four"/>
